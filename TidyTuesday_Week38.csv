@@ -1,53 +1,307 @@
-﻿State,Total_per_pupil_spending,Total_spending,Instruction_spending_per_pupil,Instruction_spending,Support_services_per_pupil,Support_services
-Alabama,"$9,236 ","$6,907,539 ","$5,257 ","$3,865,453 ","$3,321 ","$2,439,634 "
-Alaska,"$17,510 ","$2,327,151 ","$9,449 ","$1,251,738 ","$7,427 ","$983,877 "
-Arizona,"$7,613 ","$7,276,067 ","$4,077 ","$3,872,250 ","$3,105 ","$2,913,176 "
-Arkansas,"$9,846 ","$4,750,938 ","$5,539 ","$2,658,253 ","$3,762 ","$1,802,769 "
-California,"$11,495 ","$72,641,244 ","$6,849 ","$42,587,272 ","$4,191 ","$26,058,021 "
-Colorado,"$9,575 ","$8,519,780 ","$5,423 ","$4,786,838 ","$3,785 ","$3,333,043 "
-Connecticut,"$18,958 ","$9,798,789 ","$11,656 ","$6,110,631 ","$6,621 ","$3,307,162 "
-Delaware,"$14,713 ","$1,845,143 ","$9,191 ","$1,126,775 ","$4,852 ","$588,181 "
-District of Columbia,"$19,159 ","$1,007,280 ","$10,758 ","$594,396 ","$7,637 ","$369,131 "
-Florida,"$8,920 ","$25,339,845 ","$5,478 ","$15,212,112 ","$2,984 ","$8,286,140 "
-Georgia,"$9,769 ","$17,118,329 ","$5,975 ","$10,534,931 ","$3,216 ","$5,554,271 "
-Hawaii,"$13,748 ","$2,516,444 ","$8,066 ","$1,468,044 ","$4,953 ","$901,508 "
-Idaho,"$7,157 ","$1,971,800 ","$4,262 ","$1,171,313 ","$2,508 ","$689,190 "
-Illinois,"$14,180 ","$29,223,830 ","$8,636 ","$17,804,976 ","$5,134 ","$10,426,170 "
-Indiana,"$9,856 ","$9,959,771 ","$5,706 ","$5,730,602 ","$3,653 ","$3,663,349 "
-Iowa,"$11,150 ","$5,694,316 ","$6,787 ","$3,447,707 ","$3,894 ","$1,978,260 "
-Kansas,"$9,960 ","$4,941,714 ","$6,063 ","$3,006,786 ","$3,401 ","$1,685,306 "
-Kentucky,"$9,863 ","$6,834,081 ","$5,708 ","$3,917,968 ","$3,533 ","$2,425,472 "
-Louisiana,"$11,038 ","$7,305,990 ","$6,199 ","$4,095,916 ","$4,222 ","$2,789,031 "
-Maine,"$13,278 ","$2,491,632 ","$7,587 ","$1,437,164 ","$5,216 ","$938,187 "
-Maryland,"$14,206 ","$12,516,025 ","$8,848 ","$7,779,504 ","$4,935 ","$4,338,868 "
-Massachusetts,"$15,593 ","$15,466,496 ","$9,713 ","$9,991,819 ","$5,396 ","$4,970,289 "
-Michigan,"$11,668 ","$15,860,412 ","$6,823 ","$9,113,469 ","$4,416 ","$5,899,097 "
-Minnesota,"$12,382 ","$10,520,027 ","$8,074 ","$6,548,885 ","$3,719 ","$3,016,934 "
-Mississippi,"$8,702 ","$4,246,156 ","$4,951 ","$2,407,637 ","$3,190 ","$1,551,274 "
-Missouri,"$10,313 ","$9,417,531 ","$6,156 ","$5,488,433 ","$3,700 ","$3,298,811 "
-Montana,"$11,348 ","$1,657,624 ","$6,701 ","$973,199 ","$4,125 ","$599,074 "
-Nebraska,"$12,299 ","$3,882,657 ","$8,008 ","$2,526,973 ","$3,642 ","$1,149,107 "
-Nevada,"$8,960 ","$3,978,436 ","$5,183 ","$2,288,790 ","$3,409 ","$1,505,591 "
-New Hampshire,"$15,340 ","$2,778,905 ","$9,610 ","$1,743,022 ","$5,341 ","$959,654 "
-New Jersey,"$18,402 ","$26,756,822 ","$10,716 ","$15,831,343 ","$6,999 ","$9,549,742 "
-New Mexico,"$9,693 ","$3,102,120 ","$5,418 ","$1,733,158 ","$3,789 ","$1,212,080 "
-New York,"$22,366 ","$61,447,337 ","$15,746 ","$43,964,520 ","$6,130 ","$15,883,500 "
-North Carolina,"$8,792 ","$12,917,195 ","$5,513 ","$8,060,544 ","$2,806 ","$4,102,549 "
-North Dakota,"$13,373 ","$1,460,308 ","$8,005 ","$867,650 ","$4,380 ","$474,679 "
-Ohio,"$12,102 ","$20,561,122 ","$7,071 ","$12,247,509 ","$4,613 ","$7,357,292 "
-Oklahoma,"$8,097 ","$5,474,468 ","$4,528 ","$3,047,217 ","$2,989 ","$2,011,100 "
-Oregon,"$10,842 ","$6,457,713 ","$6,327 ","$3,834,741 ","$4,123 ","$2,367,410 "
-Pennsylvania,"$15,418 ","$26,261,079 ","$9,446 ","$16,717,308 ","$5,383 ","$8,464,573 "
-Rhode Island,"$15,532 ","$2,242,317 ","$9,035 ","$1,340,088 ","$6,065 ","$811,796 "
-South Carolina,"$10,249 ","$7,746,894 ","$5,629 ","$4,274,682 ","$4,054 ","$3,013,294 "
-South Dakota,"$9,176 ","$1,248,905 ","$5,360 ","$730,176 ","$3,287 ","$440,580 "
-Tennessee,"$8,810 ","$8,886,616 ","$5,406 ","$5,401,812 ","$2,917 ","$2,915,193 "
-Texas,"$9,016 ","$45,886,733 ","$5,514 ","$27,862,199 ","$3,002 ","$15,169,007 "
-United States,"$11,762 ","$587,004,677 ","$7,160 ","$357,578,738 ","$4,107 ","$199,467,318 "
-Utah,"$6,953 ","$4,095,444 ","$4,467 ","$2,591,600 ","$2,098 ","$1,217,100 "
-Vermont,"$17,873 ","$1,652,676 ","$10,720 ","$1,013,209 ","$6,629 ","$583,178 "
-Virginia,"$11,432 ","$14,752,819 ","$6,966 ","$8,944,614 ","$4,024 ","$5,164,699 "
-Washington,"$11,534 ","$12,569,546 ","$6,538 ","$7,087,365 ","$4,525 ","$4,904,575 "
-West Virginia,"$11,291 ","$3,167,977 ","$6,507 ","$1,804,235 ","$4,073 ","$1,127,255 "
-Wisconsin,"$11,456 ","$9,959,870 ","$6,697 ","$5,760,418 ","$4,304 ","$3,691,439 "
-Wyoming,"$16,442 ","$1,560,764 ","$9,750 ","$921,494 ","$6,197 ","$585,700 "
+﻿State,Variable,Spending
+Alabama,Instruction_salary,"5,156"
+Alaska,Instruction_salary,"8,330"
+Arizona,Instruction_salary,"4,538"
+Arkansas,Instruction_salary,"5,742"
+California,Instruction_salary,"6,668"
+Colorado,Instruction_salary,"6,004"
+Connecticut,Instruction_salary,"10,615"
+Delaware,Instruction_salary,"7,887"
+District of Columbia,Instruction_salary,"13,600"
+Florida,Instruction_salary,"5,065"
+Georgia,Instruction_salary,"5,882"
+Hawaii,Instruction_salary,"7,587"
+Idaho,Instruction_salary,"4,268"
+Illinois,Instruction_salary,"7,251"
+Indiana,Instruction_salary,"5,434"
+Iowa,Instruction_salary,"7,122"
+Kansas,Instruction_salary,"5,883"
+Kentucky,Instruction_salary,"5,998"
+Louisiana,Instruction_salary,"5,981"
+Maine,Instruction_salary,"8,009"
+Maryland,Instruction_salary,"9,551"
+Massachusetts,Instruction_salary,"9,857"
+Michigan,Instruction_salary,"5,763"
+Minnesota,Instruction_salary,"7,701"
+Mississippi,Instruction_salary,"5,151"
+Missouri,Instruction_salary,"6,436"
+Montana,Instruction_salary,"6,571"
+Nebraska,Instruction_salary,"7,103"
+Nevada,Instruction_salary,"5,324"
+New Hampshire,Instruction_salary,"8,308"
+New Jersey,Instruction_salary,"10,492"
+New Mexico,Instruction_salary,"5,754"
+New York,Instruction_salary,"12,303"
+North Carolina,Instruction_salary,"5,571"
+North Dakota,Instruction_salary,"8,037"
+Ohio,Instruction_salary,"6,986"
+Oklahoma,Instruction_salary,"4,490"
+Oregon,Instruction_salary,"5,746"
+Pennsylvania,Instruction_salary,"7,890"
+Rhode Island,Instruction_salary,"9,096"
+South Carolina,Instruction_salary,"5,909"
+South Dakota,Instruction_salary,"5,456"
+Tennessee,Instruction_salary,"5,313"
+Texas,Instruction_salary,"6,273"
+Utah,Instruction_salary,"3,992"
+Vermont,Instruction_salary,"10,143"
+Virginia,Instruction_salary,"7,121"
+Washington,Instruction_salary,"6,857"
+West Virginia,Instruction_salary,"6,291"
+Wisconsin,Instruction_salary,"6,476"
+Wyoming,Instruction_salary,"9,622"
+Alabama,Instruction_benefits,"2,085"
+Alaska,Instruction_benefits,"5,001"
+Arizona,Instruction_benefits,"1,447"
+Arkansas,Instruction_benefits,"1,640"
+California,Instruction_benefits,"2,790"
+Colorado,Instruction_benefits,"1,783"
+Connecticut,Instruction_benefits,"5,254"
+Delaware,Instruction_benefits,"4,094"
+District of Columbia,Instruction_benefits,"2,386"
+Florida,Instruction_benefits,"1,589"
+Georgia,Instruction_benefits,"2,175"
+Hawaii,Instruction_benefits,"3,120"
+Idaho,Instruction_benefits,"1,545"
+Illinois,Instruction_benefits,"4,515"
+Indiana,Instruction_benefits,"2,928"
+Iowa,Instruction_benefits,"2,352"
+Kansas,Instruction_benefits,"1,762"
+Kentucky,Instruction_benefits,"2,443"
+Louisiana,Instruction_benefits,"3,047"
+Maine,Instruction_benefits,"3,220"
+Maryland,Instruction_benefits,"3,765"
+Massachusetts,Instruction_benefits,"3,770"
+Michigan,Instruction_benefits,"3,740"
+Minnesota,Instruction_benefits,"2,719"
+Mississippi,Instruction_benefits,"1,755"
+Missouri,Instruction_benefits,"1,987"
+Montana,Instruction_benefits,"2,032"
+Nebraska,Instruction_benefits,"2,488"
+Nevada,Instruction_benefits,"2,209"
+New Hampshire,Instruction_benefits,"3,886"
+New Jersey,Instruction_benefits,"4,914"
+New Mexico,Instruction_benefits,"2,022"
+New York,Instruction_benefits,"6,461"
+North Carolina,Instruction_benefits,"1,855"
+North Dakota,Instruction_benefits,"2,948"
+Ohio,Instruction_benefits,"2,727"
+Oklahoma,Instruction_benefits,"1,551"
+Oregon,Instruction_benefits,"3,111"
+Pennsylvania,Instruction_benefits,"4,638"
+Rhode Island,Instruction_benefits,"4,208"
+South Carolina,Instruction_benefits,"2,169"
+South Dakota,Instruction_benefits,"1,609"
+Tennessee,Instruction_benefits,"1,722"
+Texas,Instruction_benefits,"1,097"
+Utah,Instruction_benefits,"1,963"
+Vermont,Instruction_benefits,"4,449"
+Virginia,Instruction_benefits,"2,800"
+Washington,Instruction_benefits,"2,593"
+West Virginia,Instruction_benefits,"3,034"
+Wisconsin,Instruction_benefits,"2,819"
+Wyoming,Instruction_benefits,"4,315"
+Alabama,Pupil_support,567
+Alaska,Pupil_support,"1,367"
+Arizona,Pupil_support,615
+Arkansas,Pupil_support,524
+California,Pupil_support,670
+Colorado,Pupil_support,502
+Connecticut,Pupil_support,"1,260"
+Delaware,Pupil_support,597
+District of Columbia,Pupil_support,631
+Florida,Pupil_support,396
+Georgia,Pupil_support,477
+Hawaii,Pupil_support,"1,323"
+Idaho,Pupil_support,404
+Illinois,Pupil_support,980
+Indiana,Pupil_support,488
+Iowa,Pupil_support,655
+Kansas,Pupil_support,519
+Kentucky,Pupil_support,475
+Louisiana,Pupil_support,680
+Maine,Pupil_support,962
+Maryland,Pupil_support,671
+Massachusetts,Pupil_support,"1,179"
+Michigan,Pupil_support,948
+Minnesota,Pupil_support,360
+Mississippi,Pupil_support,448
+Missouri,Pupil_support,466
+Montana,Pupil_support,743
+Nebraska,Pupil_support,579
+Nevada,Pupil_support,489
+New Hampshire,Pupil_support,"1,214"
+New Jersey,Pupil_support,"2,025"
+New Mexico,Pupil_support,992
+New York,Pupil_support,672
+North Carolina,Pupil_support,443
+North Dakota,Pupil_support,537
+Ohio,Pupil_support,835
+Oklahoma,Pupil_support,559
+Oregon,Pupil_support,805
+Pennsylvania,Pupil_support,867
+Rhode Island,Pupil_support,"1,743"
+South Carolina,Pupil_support,832
+South Dakota,Pupil_support,512
+Tennessee,Pupil_support,416
+Texas,Pupil_support,468
+Utah,Pupil_support,244
+Vermont,Pupil_support,"1,552"
+Virginia,Pupil_support,582
+Washington,Pupil_support,796
+West Virginia,Pupil_support,574
+Wisconsin,Pupil_support,578
+Wyoming,Pupil_support,984
+Alabama,Instruction_support,394
+Alaska,Instruction_support,"1,371"
+Arizona,Instruction_support,412
+Arkansas,Instruction_support,822
+California,Instruction_support,689
+Colorado,Instruction_support,590
+Connecticut,Instruction_support,618
+Delaware,Instruction_support,273
+District of Columbia,Instruction_support,826
+Florida,Instruction_support,565
+Georgia,Instruction_support,503
+Hawaii,Instruction_support,442
+Idaho,Instruction_support,348
+Illinois,Instruction_support,529
+Indiana,Instruction_support,389
+Iowa,Instruction_support,643
+Kansas,Instruction_support,391
+Kentucky,Instruction_support,557
+Louisiana,Instruction_support,579
+Maine,Instruction_support,696
+Maryland,Instruction_support,757
+Massachusetts,Instruction_support,855
+Michigan,Instruction_support,591
+Minnesota,Instruction_support,627
+Mississippi,Instruction_support,409
+Missouri,Instruction_support,478
+Montana,Instruction_support,416
+Nebraska,Instruction_support,389
+Nevada,Instruction_support,535
+New Hampshire,Instruction_support,515
+New Jersey,Instruction_support,594
+New Mexico,Instruction_support,252
+New York,Instruction_support,553
+North Carolina,Instruction_support,323
+North Dakota,Instruction_support,460
+Ohio,Instruction_support,507
+Oklahoma,Instruction_support,321
+Oregon,Instruction_support,432
+Pennsylvania,Instruction_support,534
+Rhode Island,Instruction_support,649
+South Carolina,Instruction_support,628
+South Dakota,Instruction_support,343
+Tennessee,Instruction_support,520
+Texas,Instruction_support,479
+Utah,Instruction_support,283
+Vermont,Instruction_support,857
+Virginia,Instruction_support,759
+Washington,Instruction_support,893
+West Virginia,Instruction_support,467
+Wisconsin,Instruction_support,609
+Wyoming,Instruction_support,936
+Alabama,general_admin.,240
+Alaska,general_admin.,248
+Arizona,general_admin.,135
+Arkansas,general_admin.,244
+California,general_admin.,133
+Colorado,general_admin.,149
+Connecticut,general_admin.,437
+Delaware,general_admin.,174
+District of Columbia,general_admin.,"2,260"
+Florida,general_admin.,82
+Georgia,general_admin.,119
+Hawaii,general_admin.,97
+Idaho,general_admin.,157
+Illinois,general_admin.,544
+Indiana,general_admin.,196
+Iowa,general_admin.,289
+Kansas,general_admin.,242
+Kentucky,general_admin.,233
+Louisiana,general_admin.,326
+Maine,general_admin.,487
+Maryland,general_admin.,109
+Massachusetts,general_admin.,186
+Michigan,general_admin.,196
+Minnesota,general_admin.,439
+Mississippi,general_admin.,289
+Missouri,general_admin.,363
+Montana,general_admin.,358
+Nebraska,general_admin.,352
+Nevada,general_admin.,128
+New Hampshire,general_admin.,557
+New Jersey,general_admin.,368
+New Mexico,general_admin.,203
+New York,general_admin.,349
+North Carolina,general_admin.,97
+North Dakota,general_admin.,575
+Ohio,general_admin.,347
+Oklahoma,general_admin.,238
+Oregon,general_admin.,152
+Pennsylvania,general_admin.,442
+Rhode Island,general_admin.,216
+South Carolina,general_admin.,102
+South Dakota,general_admin.,316
+Tennessee,general_admin.,197
+Texas,general_admin.,136
+Utah,general_admin.,67
+Vermont,general_admin.,418
+Virginia,general_admin.,185
+Washington,general_admin.,126
+West Virginia,general_admin.,197
+Wisconsin,general_admin.,336
+Wyoming,general_admin.,326
+Alabama,school_admin.,573
+Alaska,school_admin.,"1,072"
+Arizona,school_admin.,364
+Arkansas,school_admin.,514
+California,school_admin.,757
+Colorado,school_admin.,695
+Connecticut,school_admin.,"1,124"
+Delaware,school_admin.,957
+District of Columbia,school_admin.,"1,447"
+Florida,school_admin.,495
+Georgia,school_admin.,610
+Hawaii,school_admin.,924
+Idaho,school_admin.,411
+Illinois,school_admin.,733
+Indiana,school_admin.,595
+Iowa,school_admin.,636
+Kansas,school_admin.,583
+Kentucky,school_admin.,574
+Louisiana,school_admin.,659
+Maine,school_admin.,762
+Maryland,school_admin.,980
+Massachusetts,school_admin.,700
+Michigan,school_admin.,631
+Minnesota,school_admin.,493
+Mississippi,school_admin.,524
+Missouri,school_admin.,599
+Montana,school_admin.,632
+Nebraska,school_admin.,582
+Nevada,school_admin.,636
+New Hampshire,school_admin.,882
+New Jersey,school_admin.,922
+New Mexico,school_admin.,567
+New York,school_admin.,811
+North Carolina,school_admin.,553
+North Dakota,school_admin.,688
+Ohio,school_admin.,643
+Oklahoma,school_admin.,455
+Oregon,school_admin.,697
+Pennsylvania,school_admin.,655
+Rhode Island,school_admin.,791
+South Carolina,school_admin.,642
+South Dakota,school_admin.,453
+Tennessee,school_admin.,540
+Texas,school_admin.,524
+Utah,school_admin.,432
+Vermont,school_admin.,"1,296"
+Virginia,school_admin.,677
+Washington,school_admin.,688
+West Virginia,school_admin.,613
+Wisconsin,school_admin.,593
+Wyoming,school_admin.,930
